@@ -16,8 +16,10 @@ class Integer
     for n in input_nums
       num_array.push(n.to_i)
     end
-    
     num_of_places = (num_array.length / 3).ceil
-
+    grouped_array
+    for i in num_array.length
+      num
+    end
   end
 end
